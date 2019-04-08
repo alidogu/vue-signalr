@@ -1,6 +1,6 @@
 {
-  "name": "@latelier/vue-signalr",
-  "version": "1.0.1",
+  "name": "@ali/vue-signalr",
+  "version": "1.0",
   "description": "Signalr client for vue js",
   "main": "dist/vue-signalr.js",
   "files": [
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/latelierco/vue-signalr.git"
+    "url": "git+https://github.com/alidogu/vue-signalr.git"
   },
   "keywords": [
     "vue",
@@ -23,9 +23,9 @@
   "author": "L'Atelier <hello@latelier.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/latelierco/vue-signalr/issues"
+    "url": "https://github.com/alidogu/vue-signalr/issues"
   },
-  "homepage": "https://github.com/latelierco/vue-signalr#readme",
+  "homepage": "https://github.com/alidogu/vue-signalr#readme",
   "dependencies": {
     "@aspnet/signalr": "^1.1.2",
     "tslib": "^1.9.3"
