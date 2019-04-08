@@ -20,7 +20,7 @@
     "vuejs",
     "signalr"
   ],
-  "author": "L'Atelier <hello@latelier.co>",
+  "author": "Ali Doğu <doguali@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alidogu/vue-signalr/issues"
